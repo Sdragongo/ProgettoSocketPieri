@@ -1,0 +1,11 @@
+Istruzioni:
+
+- Nella cartella si trovano 2 progetti per poter giocare sulla stessa macchina, le porte sono già state modificate basta inviare il messaggio al 127.0.0.1;
+
+- Si possono inviare messsaggi normali
+
+- Si possono Pescare fino a 3 carte, attenzione però lo scopo è avere la più alta e una volta che si pesca non si può più prendere la carte precedente
+
+- Quando si è contenti della propria carta si può inviare la carta e sperare di vincere
+
+- Quando anche l'altro giocatore avrà inviato una carta e anche tu ne avrai già inviata una allora risponderà il Giudice che decreterà la carta più alta inviata e il punteggio
